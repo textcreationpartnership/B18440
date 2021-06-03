@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old Mr. Edmund Calamy's former and latter sayings upon several occasions.</title>
+            <author>Calamy, Edmund, 1600-1666.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18440</idno><idno type="EEBO-CITATION">99888176</idno>
+  <idno type="VID">194373</idno>
+  <idno type="EEBO-PROQUEST">2240899797</idno>
+  
+            <idno type="STC">Wing C245</idno>
+            <idno type="STC">ESTC R229136</idno>
+            <idno type="PROQUEST">ocm99888176</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888176e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194373)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:3[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old Mr. Edmund Calamy's former and latter sayings upon several occasions.</title>
+                  <author>Calamy, Edmund, 1600-1666.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Calamy, Edmund, 1600-1666 --  Early works to 1800.</term>
+               <term type="topical_term">Proverbs, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="aphorisms">
+            <pb facs="tcp:194373:1"/>
+            <head>OLD Mr. EDMUND CALAMY'S Former and Latter Sayings upon several Occasions.</head>
+            <p n="1">1. TAke heed of a mistake in the two great Gospel Graces: 1. Of Faith. 2. Of Repentance; and know where one goes to Hell by Despair, hundreds go thither by Pre<g ref="char:EOLhyphen"/>sumption.</p>
+            <p n="2">2. Since so many mistake through vain hope of Heaven, be much in Examination to prove your own selves: To be deceived in this, necessi<g ref="char:EOLhyphen"/>tates Damnation.</p>
+            <p n="3">3. Remember that Self-flattery is Soul-Mockery.</p>
+            <p n="4">4. Seek Heaven first before other things, and more than other things.</p>
+            <p n="5">5. In a matter of this weight, delay is despe<g ref="char:EOLhyphen"/>rately dangerous.</p>
+            <p n="6">6. He that defers Repentance until Old Age, may expect to have this retort: Where you have spent your Flower, there go spend your Bran.</p>
+            <p n="7">7. Despise not Christ's Ministers; he that is above their Teachings, is above Christs, for Christ Teacheth by them.</p>
+            <p n="8">8. Yet Blessed are those, that whilst the Mini<g ref="char:EOLhyphen"/>ster speaks to their Ear, that God also speaks to their Hearts.</p>
+            <p n="9">9. Take heed of Formal and Customary ser<g ref="char:EOLhyphen"/>ving of God; such Service is Mockery.</p>
+            <p n="10">10. Rest not contented in the Name of Chri<g ref="char:EOLhyphen"/>stianity, such Christians have a lively name, and but a dead practice; 'twill be a sad thing to seem to go to Heaven.</p>
+            <p n="11">11. It will be a double Hell to go within an Inch of Heaven, and at last miscarry.</p>
+            <p n="12">12. To praise Sermons heard, or to admire them, and not to live Sermons; <hi>Sodom</hi> and <hi>Go<g ref="char:EOLhyphen"/>morrah</hi>'s case at the day of Judgment will be bet<g ref="char:EOLhyphen"/>ter than yours.</p>
+            <p n="13">13. Take heed that worldly Love doth not eat out a Christian-Life.</p>
+            <p>There is no sin so contrary to true Godliness, as worldly-mindedness.</p>
+            <p n="14">14. Let your first Morning thought, and your last Evening thought be, <hi>What shall become of you to all Eternity.</hi>
+            </p>
+            <p n="15">15. Reckon sin the greatest of Evils, and rather chose the greatest affliction than the least sin.</p>
+            <p n="16">16. Communicate those Graces God hath given you, to those with whom you Converse; true Grace is of a spreading Nature; effectual Grace will labour to convert others.</p>
+            <p n="17">17. Labour to be good in every Relation, good Subjects, good Husbands, good Masters, good Neighbours.</p>
+            <p n="18">18. Joyn to your Piety, works of Mercy and Charity; God hates a Niggardly Christian. Let the Pious Rich-man be Rich in good Works.</p>
+            <p n="19">19. Take heed of separating from the Publick Assemblies; he that doth so, is like a man tum<g ref="char:EOLhyphen"/>bling down a Hill, and never leaving till he comes to the bottom of it.</p>
+            <p n="20">20. Though Truth in these Erronious days be unsetled, yet labour to get your Consciences setled.</p>
+            <p n="21">21. Avoid those Doctrines that are against ei<g ref="char:EOLhyphen"/>ther Magistracy, or Ministry, or which tend to prophane Liberty, or that cry up free Grace to cast down good Works.</p>
+            <p n="22">22. Take heed of Apostacy in your Judgments to err from the Truths of Christ, in your affecti<g ref="char:EOLhyphen"/>ons from your Love to Christ, or in your Con<g ref="char:EOLhyphen"/>versations in exact walking with Christ.</p>
+            <p n="23">23. Study often and often the four last things:
+<list>
+                  <item>1. The Meditation of death will pre<g ref="char:EOLhyphen"/>pare you for death.</item>
+                  <item>2. The Meditation of Heaven will make you Heavenly-minded.</item>
+                  <item>3. The Meditation of Hell will keep you from Hell.</item>
+                  <item>4. The Meditation of Judgment will be a Bridle to keep you from sin.</item>
+               </list>
+            </p>
+            <p n="24">24. No man hath a Lock and Key of God's Pa<g ref="char:EOLhyphen"/>tience. The Old World was warned one hun<g ref="char:EOLhyphen"/>dred and twenty years; <hi>Jerusalem</hi>'s Destruction was but forty years; <hi>Nineveh</hi>'s Destruction was but forty days; and of <hi>Sodoms</hi> Destruction, <hi>Lot</hi> had but one Nights warning.</p>
+            <p n="25">25. God hath three degrees of Wrath; First, His Threatning-Wrath: Second, His Punishing-Wrath: Third, His Condemning-Wrath.</p>
+            <p n="26">26. As soon as <hi>Adam</hi> sinn'd, he was cast out of <hi>Paradise;</hi> and as soon as Angels sinn'd, they were cast into Hell.</p>
+            <p n="27">27. Sin is a Wall of separation between God and us: To turn from Sin, will break down this Wall.</p>
+            <p n="28">28. Sin puts difference betwixt Nation and Nation.</p>
+            <p n="29">29. But O the Divine Rhetorick of Repen<g ref="char:EOLhyphen"/>tance, this is that Star will bring us unto Christ.</p>
+            <p n="30">30. As we have fill'd God's Bag with our Sins, so let us fill his Bottle with our Tears.</p>
+            <p n="31">31. There was no little price paid for sins; there is no little disobedience in a little sin.</p>
+            <p n="32">32. To disobey God in a little, is no little dis<g ref="char:EOLhyphen"/>obedience.</p>
+            <p n="33">33. A little Bodkin may wound a <hi>Caesar</hi> to death.</p>
+            <p n="34">34. For our many Church-sins, Sermon-sins, Sacrament-sins, let us have answerable Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p n="35">35. Drunkenness is grown to that Gyant-like bigness, that there is no hopes of redress.</p>
+            <p n="36">36. Whore-mongers and Adulterers God will Judge, if man will not.</p>
+            <p n="37">37. The Covetuous Earth-worm, his heart is stufft with Earth, and his Ears are stopt with Earth; God will give him Earth enough when he dyes, and he is like to have little enough of Heaven.</p>
+            <p n="38">☞ 38. The Pride of Apparel in following the Fashion of other Nations; how justly may we expect that God should make us Slaves to that Nation.</p>
+            <p n="39">39. A Penitent Tear is an undeniable Em<g ref="char:EOLhyphen"/>bassadour.</p>
+            <p n="40">40. No man can go to Heaven by Humiliati<g ref="char:EOLhyphen"/>on, without Reformation.</p>
+            <p n="41">41. The Crown we Fight for; the Garland we Run for; the Mark we aime at, is Mercy.</p>
+            <p n="42">42. Though we could Fast till we were Anata<g ref="char:EOLhyphen"/>mists; though we could Pray till our Knees were as hard as Camels: This is the great and everlasting Fast, to Fast from sins.</p>
+            <p n="43">43. Where sin rules, there God and Mercy will not stay.</p>
+            <p n="44">44. Sin is a Serpent in the Bosom, a Thief in the House, Poyson at the Stomack, and a Sword at the very Heart of a Nation.</p>
+            <p n="45">45. There are many in the world, are the worse for Mercies; that are like unto Dunghills; the more the Son of Mercy shines upon them, the more they stink.</p>
+            <p n="46">46. There are many; the more Health, the more Wealth; the more Honour they receive from God, the more they harden their hearts a<g ref="char:EOLhyphen"/>gainst God.</p>
+            <p n="47">47. He that sins against Mercy, sins against the best Friend that ever he shall have.</p>
+            <p n="48">48. God forbid that ever any should be so bru<g ref="char:EOLhyphen"/>tish as to sin, and not to be ashamed of sin.</p>
+            <p n="49">49. Many content themselves with a drop of Praises for a Sea of Mercies.</p>
+            <p n="50">50. The Devil was the first that ever named God's name in Scripture, and one of the first that ever confest Christ to be the Son of God, and yet he was a Devil for all that.</p>
+            <p n="51">51. It is a Devillish thing to praise God with our Lips, and serve the Devil with our Lives.</p>
+            <p n="52">52. He that will not follow the Example of Christ's Life, shall never be saved by the Merit of his Death.</p>
+            <p n="53">53. It is a maxim in Nature, every Master is to be served according as himself commands.</p>
+            <p n="54">54. He that will truly serve God, must serve none but him.</p>
+            <p n="55">55. The Living God expects not only living, but lively Service.</p>
+            <p n="56">56. You are not sit to serve the Lord, unless ye be fervent in Spirit.</p>
+            <p n="57">57. The God whom ye serve, is the same in all times, he alters not, no more must his Servants.</p>
+            <p n="58">58. If thou canst find out a place where God doth not see thee, there it shall be Lawful for thee to serve the Devil.</p>
+            <p n="59">59. God is a Master that cannot err in his Commands; this is Reason sufficient, the un<g ref="char:EOLhyphen"/>erring God will have it so.</p>
+            <p n="60">60. Sir <hi>Thomas Moore,</hi> his good saying, <hi>I will not pin my Salvation upon any mans Sleeve, because I know not whither he will carry it.</hi>
+            </p>
+            <p n="61">61 He that serves God only for Heaven, sells his Service to God.</p>
+            <p n="62">62. A true Servant of God may have an Eye to the recompence of Reward, as <hi>Moses</hi> had; but he must have but one Eye upon the Reward, not both, and the left Eye too; for our chief and last aime must be at Gods Glory.</p>
+            <p n="63">63. And this is the right Serving of God, to serve him with a servant-like subjection, and with a Son-like affection.</p>
+            <p n="64">64. We do not expect as much light from a Candle as from the Sun: God expects the great Lights of the World to out-shine others in Holi<g ref="char:EOLhyphen"/>ness.</p>
+            <p n="65">65. Men expect the most Service from those they give most Wages.</p>
+            <p n="66">66. When Divine Wisdom and Honour meet together, they are like Apples of Gold in Pictures of Silver.</p>
+            <p n="67">67. Great men are like unto Looking-glasses, according to which all the Country dress them<g ref="char:EOLhyphen"/>selves.</p>
+            <p n="68">68. Those that are Time-servers, and not God-servers, their Religion is like a piece of wax, to be moulded into any frame.</p>
+            <p n="69">69. It is Wisdom to observe times, so as to know our Duty: But it is damnable Wicked<g ref="char:EOLhyphen"/>ness to serve the Times, and not the Lord.</p>
+            <p n="70">70. There are many that give their Cap and Knee to God, but themselves to Sin and Iniquity.</p>
+            <p n="71">71. God hath his Hand-writing on the wall, to make the great <hi>Belshazzers</hi> of the Earth to trem<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="72">72. There are but few that are Great and Rich here, and Great and Rich hereafter.</p>
+            <p n="73">73. In Christ's time poor <hi>Lazarus</hi> went to Heaven, and rich <hi>Dives</hi> was carryed to Hell.</p>
+            <p n="74">74. It is the certainest sign of a Reprobate to have much wages here, and to want a heart to do service with it.</p>
+            <p n="75">75. The Service of God is perfect freedom, and it will free us from all other Services.</p>
+            <p n="76">76. The service of sin, as it is shameful, so it is unfruitful.</p>
+            <p n="77">77. Wonder not why God's Servants are so poor; this Life is the time of working, hereafter we shall have wages enough.</p>
+            <p n="78">78. There are many dear Servants of God, to whom God giveth very little wages in this Life, because he fore-sees, that if they had a great part of their wages afore-hand, they would do but little work.</p>
+            <p n="79">79. Those that converse with the God of all joy, must needs be filled with all joy.</p>
+            <p n="80">80. A Swine finds no delight in a green Mea<g ref="char:EOLhyphen"/>dow, because it is a Swine.</p>
+            <p n="81">81. A wicked man at God's Service, is like a Fish out of his Element.</p>
+            <p n="82">82. One Sparrow is not worth half a Farthing; you shall not have half a farthing-worth of harm, more than God hath from all Eternity decreed.</p>
+            <p n="83">83. When <hi>Moses</hi> went up to the Mount to Pray, he took the Rod of God in his Hand: the Reason is given, because, by that Rod God had formerly done wonderful things for his people.</p>
+            <p n="84">84. There are but two ways to Heaven, either by Innocency, or by Penitency.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. B.</hi> 1674. 71.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
